@@ -4,7 +4,8 @@
 ![nim](https://img.shields.io/badge/Nim-312110558-pink.svg)
 ![kelas](https://img.shields.io/badge/Kelas-TI.21.C5-pink.svg)
 
-## *SOAL UJIAN*
+## **SOAL UJIAN**
+Dibawah Ini Adalah Soal UAS Pemrograman
 
 ![100](screenshot/soal-uas.png)
 
