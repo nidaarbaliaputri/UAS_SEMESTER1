@@ -213,7 +213,7 @@ while True:
         print("Ada yang salah, Silahkan cek kembali.")
 ```
 
-**Output:**
+# *Output:*
 
 <p>Tambah data<p>
 
