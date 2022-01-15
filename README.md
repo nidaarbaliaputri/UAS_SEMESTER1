@@ -4,7 +4,7 @@
 ![nim](https://img.shields.io/badge/Nim-312110558-pink.svg)
 ![kelas](https://img.shields.io/badge/Kelas-TI.21.C5-pink.svg)
 
-## **SOAL UJIAN**
+## *SOAL UJIAN*
 
 ![100](screenshot/soal-uas.png)
 
